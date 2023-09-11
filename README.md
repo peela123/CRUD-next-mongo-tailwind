@@ -1,1 +1,6 @@
-# CRUD-next-mongo-tailwind
+# CRUD Application
+
+Technology
+-Next.js
+-MongoDB
+-Tailwind css
