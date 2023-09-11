@@ -1,6 +1,6 @@
 # CRUD Application
 
-Technology\
--Next.js\
--MongoDB\
+Technology <br/>
+-Next.js <br/>
+-MongoDB <br/>
 -Tailwind css
